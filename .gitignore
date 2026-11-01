@@ -1,2 +1,13 @@
 /aset
 .env
+asetku
+aset_terpisah/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+ENV/
